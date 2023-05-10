@@ -2,6 +2,7 @@
 
 
 ## Recent Changes
+Tristan Rubio gwapo
 Vilbert Baluan
 *Added new functionalities in regards to Customer form.
 *Added pictures.
